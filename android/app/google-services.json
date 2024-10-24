@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "439247431841",
+    "project_id": "farmorbit-28bc7",
+    "storage_bucket": "farmorbit-28bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439247431841:android:2d795ab282a423524de8e0",
+        "android_client_info": {
+          "package_name": "com.example.farmorbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439247431841-m89vmhvdqjtls0u10plgk695gqma1ejd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmorbit",
+            "certificate_hash": "069e1ae17000e4627512320d97fdebf97cdd5d98"
+          }
+        },
+        {
+          "client_id": "439247431841-q6lg7nkmvse4l931sb9l6p0gvuduaust.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZUBPeHSbVnXpN0TzUm2R5Z4zl-9TF2Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439247431841-q6lg7nkmvse4l931sb9l6p0gvuduaust.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439247431841-qt6hffc5j0mk94hehohksrnm154m643q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.farmorbit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
